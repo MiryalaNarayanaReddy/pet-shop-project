@@ -1,0 +1,5 @@
+dog  8  7
+cat  5  8
+horse  20  6
+hamster  10  7
+parrot  6  10
