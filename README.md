@@ -26,7 +26,7 @@ database.txt basically contains names of pets in on word followed by cost (in un
 name cost number
 
 ```
-`important: ` name should not contain mor than one word. (needs improvement).
+`important: ` name should not contain more than one word. (needs improvement).
 
 ## about
 
