@@ -12,7 +12,12 @@ then run
 ```
 make clean
 ```
+## To run on linux VSCode
+use the following command
 
+```
+./run
+```
 ## database.txt
 
 database.txt basically contains names of pets in on word followed by cost (in units) and number of pets in the shop.
